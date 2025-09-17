@@ -4,4 +4,4 @@ print(f"Mening ismim {ism}!")
 
 yosh = int(input("Yoshingni kiriting: "))
 
-print(f"Mening yoshim {yosh} da!")
+print(f"Sizning yoshinging 10 yildan keyin {yosh + 10} da bo'ladi!")
